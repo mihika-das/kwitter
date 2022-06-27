@@ -1,0 +1,14 @@
+#login_button
+{
+    width: 80px; border-radius:15px; color:darkred;
+}
+html, body
+{
+    height:100%;
+    margin:0;
+    background-color:darksalmon;
+}
+body
+{
+    background-color:darkseagreen;
+}
